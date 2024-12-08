@@ -5,10 +5,12 @@ h1{
     text-align: center;
 }
 
+
+
 .practice-img{
-    position: fixed;
-    top: 30%;
-    left: 50%;
+    position: relative;
+    right: 45%;
+    left: 45%;
     height: 100px;
     width: 100px;
 }
