@@ -5,12 +5,22 @@ h1{
     text-align: center;
 }
 
-
+.container{
+    height: 300px;
+    width: 500px;
+    background-color: brown;
+    border-radius: 50px;
+    position: relative;
+}
 
 .practice-img{
-    position: relative;
-    right: 45%;
-    left: 45%;
+    position: absolute;
+    padding: 20px;
+    margin: 0 auto;
+    left: 180px;
+    bottom: 25%;
     height: 100px;
     width: 100px;
+    border-radius: 50%;
+    background-color: chocolate;
 }
